@@ -1,0 +1,16 @@
+[
+{
+  "modid": "doehack",
+  "name": "DoeHack",
+  "description": "Based Client",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Piggydoe"],
+  "credits": "idk forge",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
