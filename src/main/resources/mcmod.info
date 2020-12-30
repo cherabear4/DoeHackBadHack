@@ -1,6 +1,6 @@
 [
 {
-  "modid": "doehack",
+  "modid": "dh",
   "name": "DoeHack",
   "description": "Based Client",
   "version": "${version}",
